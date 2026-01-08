@@ -53,7 +53,6 @@ npm install
 3️⃣ Run the Application
 npm run dev
 4️⃣ Open in Browser
-http://localhost:5173
 ________________________________________
 🧪 Mock API Explanation
 •	No real backend is used
